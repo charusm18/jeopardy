@@ -1,0 +1,36 @@
+100
+What is charu's last name?
+murugesan
+200
+Where was charu born?
+redwood city
+300
+What is charu's favorite color?
+blue
+400
+what is charu's favorite vegetable?
+okra
+500
+what is the capital of india?
+new dheli
+600
+where is the jade budha?
+china
+700
+how much could a wood chuck chuck?
+alot
+800
+who plays jack in the titanic?
+Leo
+900
+how many planets are there?
+8
+1000
+where is cornell?
+ithaca
+1100
+do you like peaches?
+yes
+1200
+does charu play soccer?
+yes
